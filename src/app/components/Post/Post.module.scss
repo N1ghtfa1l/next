@@ -1,0 +1,12 @@
+.container {
+    width: 700px;
+    border: 1px solid aqua;
+    margin: 20px 0;
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+}
+.title {
+    font-size: 15px;
+    font-weight: 700;
+}
